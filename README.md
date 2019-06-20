@@ -6,7 +6,7 @@ Note - You should have the node or yarn installed in your system to getting all 
 
 1.  Clone the repo:
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+        git clone https://github.com/AnirudhaRamteke/collision.git
 
 2.  Install dependencies:
 
